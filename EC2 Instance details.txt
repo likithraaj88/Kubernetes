@@ -1,0 +1,5 @@
+
+Key:Name      Value: FirstEC2Instance
+
+KeyPair Name: FirstKeyPair
+  
